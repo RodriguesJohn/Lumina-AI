@@ -1,0 +1,5 @@
+{
+  "name": "Lumina AI Intake Operations",
+  "description": "An Apple-inspired AI-managed intake operations dashboard for large healthcare organizations, featuring real-time revenue-at-risk monitoring and automated case prioritization.",
+  "requestFramePermissions": []
+}
